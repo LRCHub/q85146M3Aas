@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "或る街の群青",
+  "base_artist": "ASIAN KUNG-FU GENERATION",
+  "createdAt": "2026-03-13T07:32:50.152943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "或る街の群青",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/01_或る街の群青_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Town in Blue (或る街の群青 Aru Machi no Gunjō)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/02_A_Town_in_Blue_(或る街の群青_Aru_Machi_no_Gunjō)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "或る街の群青",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/03_或る街の群青_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aru Machi No Gunjou [或る街の群青]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_Aru_Machi_No_Gunjou_[或る街の群青]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "或る街の群青",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/05_或る街の群青_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "或る街の群青",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/pl_01_或る街の群青_ASIAN_KUNG-FU_GENERATION.txt"
+    }
+  ]
+}
